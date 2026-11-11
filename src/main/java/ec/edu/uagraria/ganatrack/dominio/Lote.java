@@ -1,4 +1,4 @@
-package ec.uagraria.costos;
+package ec.edu.uagraria.ganatrack.dominio;
 
 import java.util.List;
 

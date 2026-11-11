@@ -1,4 +1,6 @@
-package ec.uagraria.costos;
+package ec.edu.uagraria.ganatrack.reglas;
+
+import ec.edu.uagraria.ganatrack.dominio.Insumo;
 
 public final class Estrategias {
 
