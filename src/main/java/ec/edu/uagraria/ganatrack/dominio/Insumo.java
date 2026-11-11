@@ -1,5 +1,5 @@
 // Desarrollado por Antonella Castillo - Validaciones compactas
-package ec.uagraria.costos;
+package ec.edu.uagraria.ganatrack.dominio;
 
 public record Insumo(String nombre, double cantidad, String unidad, double precioUnitario) {
     public Insumo {

@@ -1,5 +1,11 @@
 package ec.uagraria.costos;
 
+import ec.edu.uagraria.ganatrack.dominio.Banano;
+import ec.edu.uagraria.ganatrack.dominio.Cacao;
+import ec.edu.uagraria.ganatrack.dominio.Insumo;
+import ec.edu.uagraria.ganatrack.dominio.Lote;
+import ec.edu.uagraria.ganatrack.reglas.CalculadoraCostos;
+import ec.edu.uagraria.ganatrack.reglas.Estrategias;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
